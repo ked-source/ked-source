@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Diab</h1>
-<h3 align="center">A passionate computer engineer from Egypt</h3>
+<h3 align="center">A passionate computer engineer</h3>
 <hr>
 
 - 🌱 I’m currently learning **ML, Tensorflow**
